@@ -28,9 +28,9 @@ export default defineNuxtConfig({
 		'@nuxt/image',
 		'@nuxt/ui', // https://ui.nuxt.com
 		'@nuxtjs/color-mode', // https://color-mode.nuxtjs.org
-		'@nuxtjs/google-fonts', // https://google-fonts.nuxtjs.org
+		// '@nuxtjs/google-fonts', // https://google-fonts.nuxtjs.org
 		'@nuxtjs/seo', // https://nuxtseo.com
-		'@formkit/auto-animate/nuxt',
+		'@formkit/auto-animate/nuxt', 
 		'@vueuse/motion/nuxt', // https://motion.vueuse.org/nuxt.html
 		'@vueuse/nuxt', // https://vueuse.org/
 		'@nuxt/icon', // https://github.com/nuxt-modules/icon

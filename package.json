@@ -40,6 +40,7 @@
 		"@nuxtjs/color-mode": "^3.4.2",
 		"@nuxtjs/google-fonts": "^3.2.0",
 		"@nuxtjs/seo": "^2.0.0-rc.16",
+		"@resvg/resvg-js-linux-x64-musl": "^2.6.2",
 		"@stripe/stripe-js": "^4.1.0",
 		"@vueuse/motion": "^2.2.3",
 		"micromark": "^4.0.0",
